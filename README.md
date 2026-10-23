@@ -44,5 +44,16 @@ Add at least 3–5 insights that you have personally verified from the dashboard
 Open the `.pbix` file in Power BI Desktop. Use the Country and Date slicers to explore the dashboard.
 
 ## Author
-Data Analytics Internship Project — SWYNEX Technologies
+Data Analytics Internship Project — SWYNEX Technologies 
+
+
+## Related Internship Tasks
+
+- **Task 1 – Data Cleaning:** https://github.com/adeshgoutam/SWYNEX-Data-Cleaning-Preparation
+- **Task 2 – Exploratory Data Analysis:** https://github.com/adeshgoutam/SWYNEX-Exploratory-Data-Analysis
+- **Task 3 – Interactive Sales Dashboard:** https://github.com/adeshgoutam/SWYNEX-Interactive-Dashboard
+
+## Final Project Summary
+
+This final project brings together data cleaning, exploratory data analysis, and interactive Power BI visualization using the Online Retail dataset. It demonstrates an end-to-end analytics workflow, from data preparation to business reporting and insights.
 
